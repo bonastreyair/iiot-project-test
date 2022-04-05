@@ -1,0 +1,7 @@
+read variable
+
+process information
+
+send data
+
+improvement goes here
